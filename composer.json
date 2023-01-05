@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.25",
+        "dejurin/php-google-translate-for-free": "^1.0",
+        "smalot/pdfparser": "^2.2"
+    }
+}
