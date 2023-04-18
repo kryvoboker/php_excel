@@ -1,0 +1,2 @@
+AddDefaultCharset UTF-8
+php_value max_execution_time 60000
